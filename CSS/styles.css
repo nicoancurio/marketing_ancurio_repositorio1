@@ -729,3 +729,9 @@ img:hover
   transform: scale(1.5);
 
 }
+
+.box:hover
+{
+  background-color: rgba(6, 6, 6, 0.3);
+
+}
