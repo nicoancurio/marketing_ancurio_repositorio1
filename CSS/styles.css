@@ -15,7 +15,7 @@
    
 }
 
-#titulo-secundario /*titulo principal secundario*/
+.titulo-secundario /*titulo principal secundario*/
 {
     border-style: solid; /*borde solido*/
     border-color: white; /*color de borde*/
@@ -722,4 +722,10 @@ background-color: antiquewhite;/*cambia el fondo*/
 
   
   
+}
+
+img:hover
+{
+  transform: scale(1.5);
+
 }
